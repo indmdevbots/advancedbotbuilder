@@ -6,11 +6,12 @@ The MiniApp and Bot have many features to increase your sales and customers' sat
 # TRY THE BOT NOW: [InDMShopBot](https://t.me/indmshopbot) OR [Test Demo Bot](https://t.me/Allmetest1bot)
 
 # USER'S STORE CONTROL PANEL:
-<img width="628" height="1280" alt="image" src="https://github.com/user-attachments/assets/ae758c82-39dc-44df-8ee1-6f48dc1290bd" />
+<img width="628" height="1280" alt="image" src="https://github.com/user-attachments/assets/f7624570-0786-4bb3-9e6b-3001ed3a8f9d" />
 
-<img width="633" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ba9907f-89c7-4966-aa62-b5800fc34adb" />
+<img width="633" height="1280" alt="image" src="https://github.com/user-attachments/assets/a2440f22-b632-4979-a6ee-e512b644e21e" />
 
 
 # SELLER'S STORE CONTROL PANEL:
-<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/bae99c23-d088-4dd5-b0f8-ead06c0dab86" />
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/dbdc2579-af22-41a8-8677-323927aebc28" />
+
 #By InDMDev
