@@ -13,4 +13,4 @@ The MiniApp and Bot have many features to increase your sales and customers' sat
 
 # SELLER'S STORE CONTROL PANEL:
 <img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/bae99c23-d088-4dd5-b0f8-ead06c0dab86" />
-#From InDMDev
+#By InDMDev
